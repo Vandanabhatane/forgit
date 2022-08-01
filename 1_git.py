@@ -7,3 +7,4 @@ for c in s:
         char_count[c] = 1
 
 print(char_count)
+print("good morning")
